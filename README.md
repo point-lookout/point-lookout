@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - statistical analysis,
 - A/B tests
 
+
+[@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
