@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ### Key skills:  
 - Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy),
-- SQL (PostgreSQL),  
--Jupyter Notebook,  
--Tableau,  
--Yandex Datalens,  
--MS Excel,  
--unit economic / cohort analysis,  
--statistical analysis,  
--A/B tests
+- SQL (PostgreSQL),
+- Jupyter Notebook,
+- Tableau,
+- Yandex Datalens,
+- MS Excel,
+- unit economic / cohort analysis,
+- statistical analysis,
+- A/B tests
 
