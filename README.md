@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - statistical analysis,
 - A/B tests
 
-
-[@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
+### You can contact me by e-mail or by Telegram:
+[@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
