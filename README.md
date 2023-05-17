@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 #### Now I am passionate about further improving my data analysis skills. 
 
 ### Key skills:  
-- Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy),  
--SQL (PostgreSQL),  
+- Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy),
+- SQL (PostgreSQL),  
 -Jupyter Notebook,  
 -Tableau,  
 -Yandex Datalens,  
