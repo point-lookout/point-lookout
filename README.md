@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I live in Moscow and do data analysis.
+#### I live in Moscow and do data analysis.  In the past, I have considerable experience in the commercial sphere (wholesale sales, b2b segment). Initially, I had to analyze data to optimize business processes in my work. Later, data analysis became the main activity.  
+#### Now I am passionate about further improving my data analysis skills. 
