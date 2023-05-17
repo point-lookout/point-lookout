@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 - statistical analysis,
 - A/B tests
 
+<!--
 ### You can contact me by e-mail or by Telegram:
 [@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
+-->
 
-### My email:
+#### My email:
 clientmail2000@gmail.com
 
-### My Telegram:
+#### My Telegram:
 [@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
