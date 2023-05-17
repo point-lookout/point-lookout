@@ -33,3 +33,9 @@ Here are some ideas to get you started:
 
 ### You can contact me by e-mail or by Telegram:
 [@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
+
+### My email:
+clientmail2000@gmail.com
+
+### My Telegram:
+[@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
