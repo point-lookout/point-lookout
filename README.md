@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I live in Moscow and do data analysis.  In the past, I have considerable experience in the commercial sphere (wholesale sales, b2b segment). Initially, I had to analyze data to optimize business processes in my work. Later, data analysis became the main activity.  
-Now I am passionate about further improving my data analysis skills. 
+#### Now I am passionate about further improving my data analysis skills. 
+
+### Key skills: Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy), SQL (PostgreSQL), Jupyter Notebook, Tableau, Yandex Datalens, MS Excel, Statistical Analysis, A/B tests
+
+
