@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Tableau
 - Yandex Datalens
 - MS Excel
-- unit economic / cohort analysis
+- unit-economy / cohort analysis
 - statistical analysis
 - A/B tests
 
