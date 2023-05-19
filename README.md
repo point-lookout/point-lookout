@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 #### Now I am passionate about further improving my data analysis skills. 
 
 ### Key skills:  
-- Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy),
-- SQL (PostgreSQL),
-- Jupyter Notebook,
-- Tableau,
-- Yandex Datalens,
-- MS Excel,
-- unit economic / cohort analysis,
-- statistical analysis,
+- Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy)
+- SQL (PostgreSQL)
+- Jupyter Notebook
+- Tableau
+- Yandex Datalens
+- MS Excel
+- unit economic / cohort analysis
+- statistical analysis
 - A/B tests
 
 <!--
