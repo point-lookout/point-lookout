@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-#### I live in Moscow and do data analysis.  In the past, I have considerable experience in the commercial sphere (wholesale sales, b2b segment). Initially, I had to analyze data to optimize business processes in my work. Later, data analysis became the main activity.  
-#### Now I am passionate about further improving my data analysis skills. 
+#### I live in Moscow and specialize in data analysis.  In the past, I have considerable experience in the commercial sphere (wholesale sales, b2b segment). Initially, I had to analyze data to optimize business processes in my work. Later, data analysis became the main activity.  
+#### Passionate about data. 
 
 ### Key skills:  
-- Python (Pandas, Seaborn, Matplotlib, Numpy, SciPy)
+- Python (Pandas, Seaborn, Matplotlib, NumPy, SciPy)
 - SQL (PostgreSQL)
 - Jupyter Notebook
 - Tableau
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 [@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
 -->
 
-#### My email:
+#### Email:
 clientmail2000@gmail.com
 
-#### My Telegram:
+#### Telegram:
 [@MyTel2021](https://t.me/MyTel2021 "Telegram channel")
