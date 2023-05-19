@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitriy 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Analyst from Russia 🇷🇺</h3>
+<h3 align="center">Data Analyst from Moscow 🇷🇺</h3>
 
 <!--
 **point-lookout/point-lookout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-#### I live in Moscow and specialize in data analysis.  In the past, I have considerable experience in the commercial sphere (wholesale sales, b2b segment). Initially, I had to analyze data to optimize business processes in my work. Later, data analysis became the main activity.  
+#### I live in Moscow and specialize in data analysis. Previously, I gained substantial experience in the commercial sector, specifically in wholesale sales and B2B. Initially, my role involved analyzing data to enhance business processes. Over time, data analysis has evolved into a full-time job.
 #### Passionate about data. 
 
 ### Key skills:  
